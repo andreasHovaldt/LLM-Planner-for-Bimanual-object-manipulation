@@ -1,0 +1,22 @@
+repositories:
+  fri_vendor:
+    type: git
+    url: https://github.com/lbr-stack/fri_vendor
+    version: ros2
+  lbr_fri_ros2_stack_dual_arm_setup:
+    type: git
+    url: https://github.com/TheMipmap/lbr_fri_ros2_stack_dual_arm_setup
+    version: humble
+  user_input_client:
+    type: git
+    url: https://github.com/ATh0ft/user_input_client
+    version: main
+  gpt_pkg:
+    type: git
+    url: https://github.com/andreasHovaldt/gpt_pkg
+    version: main
+  yolov8_ros2:
+    type: git
+    url: https://github.com/andreasHovaldt/yolov8_ros2
+    version: main
+  
