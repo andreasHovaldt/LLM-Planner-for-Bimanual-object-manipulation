@@ -1,6 +1,14 @@
 # LLM-Planner-for-Bimanual-object-manipulation
 Robotics 5th semester project. LLM planner for Bimanual object manipulation using ChatGPT, YoloV8 and the Robotiq 3F adaptive gripper.
 
+## Required libraries
+### Python3
+```shell
+pip install open3d
+pip install torch
+pip install ultralytics
+```
+
 ## Quick Start
 Install [colcon](https://docs.ros.org/en/humble/Tutorials/Colcon-Tutorial.html#install-colcon), [rosdep](https://docs.ros.org/en/crystal/Installation/Linux-Install-Binary.html#installing-and-initializing-rosdep) and [vcstool](https://github.com/dirk-thomas/vcstool#how-to-install-vcstool). Build this repository
 
