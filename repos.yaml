@@ -23,4 +23,8 @@ repositories:
     type: git
     url: https://github.com/EliasTDam/lbr_pose_commander
     version: main
+  custom_interfaces:
+    type: git
+    url: https://github.com/ATh0ft/custom_interfaces
+    version: main
   
