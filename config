@@ -92,7 +92,7 @@
       parent = child10
       order = 0
       profile = default
-      command = source ~/LLM-Bimanual-Planner/install/setup.bash && ros2 launch yolov8_ros2 camera_yolo.launch.py; bash
+      command = cd ~/LLM-Bimanual-Planner/src/yolov8_ros2 && source ~/LLM-Bimanual-Planner/install/setup.bash && ros2 launch yolov8_ros2 camera_yolo.launch.py; bash
       uuid = d925700e-cd8a-4da8-9c07-4cc141b97e49
     [[[terminal12]]]
       type = Terminal
