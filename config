@@ -46,7 +46,7 @@
       parent = child3
       order = 0
       profile = default
-      command = echo "User input client"; bash
+      command = source ~/LLM-Bimanual-Planner/install/setup.bash && echo 'Choose a prompt for the LLM:' && echo 'Example: ros2 run user_input_client client "Pick up the bottle with the left arm"'; bash
       uuid = 7eeca2ae-41e9-47a7-918a-a7b1cc988af8
     [[[terminal5]]]
       type = Terminal
