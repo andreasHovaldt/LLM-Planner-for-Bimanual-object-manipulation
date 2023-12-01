@@ -25,7 +25,7 @@ Next, download 'terminator' and change the config file (found in ~/.config/termi
 
 ```shell
 sudo apt install terminator
-mv ~/.config/terminator/config ~/.config/terminator/old_config && mv src/config ~/.config/terminator/config
+mkdir -p ~/.config/terminator/ && mv src/config ~/.config/terminator/
 ```
 Now, while running the LBRServer program on the KUKAs, start the robot with the following command:
 
