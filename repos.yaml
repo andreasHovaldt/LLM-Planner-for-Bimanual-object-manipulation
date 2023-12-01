@@ -19,12 +19,15 @@ repositories:
     type: git
     url: https://github.com/andreasHovaldt/yolov8_ros2
     version: main
-  lbr_pose_commander:
-    type: git
-    url: https://github.com/EliasTDam/lbr_pose_commander
-    version: main
   custom_interfaces:
     type: git
     url: https://github.com/ATh0ft/custom_interfaces
     version: main
-  
+  pose_commander:
+    type: git
+    url: https://github.com/andreasHovaldt/pose_commander
+    version: main
+  robotiq_3f_gripper_ros2_stack:
+    type: git
+    url: https://github.com/andreasHovaldt/robotiq_3f_gripper_ros2_stack
+    version: main
