@@ -11,7 +11,7 @@
     [[[child1]]]
       type = Terminal
       parent = window0
-  [[Launch]]
+  [[LLM-Planner]]
     [[[child0]]]
       type = Window
       parent = ""
