@@ -8,6 +8,8 @@ Robotics 5th semester project. LLM planner for Bimanual object manipulation usin
 pip install open3d
 pip install ultralytics
 pip install pymodbus
+pip install openai
+pip install langchain
 ```
 
 ## Quick Start
