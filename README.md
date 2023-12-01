@@ -27,10 +27,10 @@ Next, download 'terminator' and change the config file (found in ~/.config/termi
 sudo apt install terminator
 mkdir -p ~/.config/terminator/ && mv src/config ~/.config/terminator/
 ```
-Now, while running the LBRServer program on the KUKAs, start the robot with the following command:
+Now, while running the LBRServer program on the KUKAs, start the programs with the following command:
 
 ```shell
-terminator -l Launch
+terminator -l LLM-Planner
 ```
 
 OBS: It is important that the two KUKA IIWA 7s are configured with different ports. Follow the robot setup guide from [LBR-stack](https://lbr-fri-ros2-stack-doc.readthedocs.io/en/humble/lbr_fri_ros2_stack/lbr_fri_ros2_stack/doc/robot_setup.html).
