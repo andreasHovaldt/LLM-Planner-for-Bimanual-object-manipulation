@@ -1,5 +1,5 @@
 # LLM-Planner-for-Bimanual-object-manipulation
-Robotics 5th semester project. LLM planner for Bimanual object manipulation using ChatGPT, YoloV8, two KUKA iiwa 7's, an Intel RealSense D435 camera and the Robotiq 3F adaptive gripper.
+Robotics 5th semester project. LLM planner for Bimanual object manipulation using ChatGPT, YoloV8, two KUKA iiwa 7s, an Intel RealSense D435 camera and the Robotiq 3F adaptive gripper.
 
 ## Required libraries/software
 
