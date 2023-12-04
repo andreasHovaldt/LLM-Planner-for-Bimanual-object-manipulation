@@ -11,9 +11,9 @@ repositories:
     type: git
     url: https://github.com/ATh0ft/user_input_client
     version: main
-  gpt_pkg:
+  langchain_agent_robot_controller_ros2:
     type: git
-    url: https://github.com/andreasHovaldt/gpt_pkg
+    url: https://github.com/ATh0ft/langchain_agent_robot_controller_ros2
     version: main
   yolov8_ros2:
     type: git
