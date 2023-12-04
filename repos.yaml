@@ -18,7 +18,7 @@ repositories:
   yolov8_ros2:
     type: git
     url: https://github.com/andreasHovaldt/yolov8_ros2
-    version: main
+    version: humble
   custom_interfaces:
     type: git
     url: https://github.com/ATh0ft/custom_interfaces
@@ -30,4 +30,4 @@ repositories:
   robotiq_3f_gripper_ros2_stack:
     type: git
     url: https://github.com/andreasHovaldt/robotiq_3f_gripper_ros2_stack
-    version: main
+    version: humble
