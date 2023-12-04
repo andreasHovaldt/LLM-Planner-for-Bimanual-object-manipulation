@@ -10,6 +10,7 @@ pip install ultralytics
 pip install pymodbus
 pip install openai
 pip install langchain
+pip install kinpy
 ```
 
 ## Quick Start
