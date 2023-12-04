@@ -53,7 +53,7 @@
       parent = child3
       order = 1
       profile = default
-      command = source ~/LLM-Bimanual-Planner/install/setup.bash && ros2 launch gpt_pkg gpt_controller.launch.py; bash
+      command = source ~/LLM-Bimanual-Planner/install/setup.bash && ros2 run langchain_agent_robot_controller_ros2 create_new_chat; bash
       uuid = c109bac2-0d02-416c-a6d7-16c6a7f94b24
     [[[child6]]]
       type = VPaned
